@@ -3,3 +3,7 @@ html,body{
 	padding: 0;
 	background-color: blueviolet;
 }
+h2{
+	color: brown;
+	font-weight: 500;
+}
